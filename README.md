@@ -8,7 +8,7 @@ It can be a bit tricky to install these as blender uses its own bundled python. 
 Once you have those installed, you can use these folders as regular blender addons. They are added from the [user preferences as can be seen here](https://docs.blender.org/manual/en/dev/preferences/addons.html).
 
 ## Images made with Cube Blend
-(catalyst.png "Catalytic Nanoparticle")
+(./catalyst.png "Catalytic Nanoparticle")
 (sih4.png)
 
 
